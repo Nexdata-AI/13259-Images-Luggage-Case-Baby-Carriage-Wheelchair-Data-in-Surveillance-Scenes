@@ -3,7 +3,7 @@
 ## Description
 13,259 Images-Luggage Case, Baby Carriage, Wheelchair Data in Surveillance Scenes. This dataset includes indoor and outdoor scenes. The data diversity includes different light conditions, different collecting environment, different types of luggage cases, different types of baby carriages, different types of wheelchairs. In terms of annotation,rectangular bounding boxes were adopted for luggage case, baby carriage and wheelchair. The data can be used for object detection and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1148?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/1148?source=Github
 
 
 # Specifications
